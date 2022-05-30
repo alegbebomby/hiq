@@ -1,3 +1,24 @@
+### How to run ###
+
+Backend
+
+```
+cd backend
+yarn && yarn start:dev
+```
+The application run at port: 3010
+upload endpoint : POST http://localhost:3010/upload
+
+Backend
+
+```
+cd frontend
+yarn && yarn start 
+
+```
+Upload any file
+
+
 
 ### Questions ###
 Please answer these questions in a markdown file called `Answers.md`.
