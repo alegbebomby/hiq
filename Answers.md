@@ -1,6 +1,6 @@
 ### How to run ###
 
-Backend
+*Backend*
 
 ```
 cd backend
@@ -9,13 +9,15 @@ yarn && yarn start:dev
 The application run at port: 3010
 upload endpoint : POST http://localhost:3010/upload
 
-Backend
+*Backend*
 
 ```
 cd frontend
 yarn && yarn start 
 
 ```
+ goto  http://localhost:3009
+ 
 Upload any file
 
 
